@@ -88,7 +88,7 @@ function injectWow() {
   }
 
   if (wows === 10) {
-    lengthEl.innerText = "wow wow"
+    lengthEl.innerText = "wow WOW"
   }
 
   if (wows === 50) {
